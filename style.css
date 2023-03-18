@@ -28,11 +28,12 @@ a{
 color: #d43cd9;
 }
 .nav-h3{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     position: absolute;
-    top: 20rem;
+    top: 15rem;
     left: 1rem;
     display:none;
+    opacity:0.8;
 }
 .navbar .links{
     display: flex;
@@ -247,7 +248,7 @@ header{
 /* dropdown menu */
 .dropdown-menu{
     display: none;
-    position: absolute;
+    position: static;
     right: 2rem;
     top: 8rem;
     width: 20rem;
@@ -274,7 +275,7 @@ header{
         display: none;
     }
     .navbar{
-        height: 25rem;
+        height: 8rem;
         
     }
     .navbar .toggle-btn{
