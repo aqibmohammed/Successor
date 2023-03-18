@@ -309,4 +309,37 @@ header{
     .container2{
         height:143rem;
 }
+    .profile .image1{
+        width: 10rem;
+        height: 10rem;
+        left:0;
+        /* margin-left: 130px; */
+    }
+    .profile p{
+        float:left;
+    }
+    #c1{
+
+        width: 6rem;
+        height: 6rem;
+        position:absolute;
+        left: 10rem;
+        bottom: 9rem;
+    }
+    #c2{
+      
+        width: 4.5rem;
+        height: 4.5rem;
+        position: absolute;
+        right: 10rem;
+        top: 27rem;
+    }
+    #m{
+        height: 15rem;
+        width: 15rem;
+        opacity: 0.8;
+        position:absolute;
+        right: 10em;
+        top: 40rem;
+    }
 }
