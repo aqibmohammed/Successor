@@ -33,7 +33,7 @@ color: #d43cd9;
     top: 15rem;
     left: 1rem;
     display:none;
-    opacity:0.8;
+    opacity: 0.8;
 }
 .navbar .links{
     display: flex;
@@ -114,7 +114,7 @@ position: relative;
 
 }
 .profile{
-    margin: 3rem auto 10rm auto;
+    margin: 3rem auto 1rem auto;
     width: 50%;
     display: inline-block;
     text-align:center;
@@ -133,7 +133,7 @@ hr{
     border: dotted #9da3a7 6px;
     border-bottom: none;
     width: 4%;
-    margin: 100px auto;
+    margin: 2rem auto;
 }
 .skill-row1{
     width: 60%;
@@ -248,7 +248,7 @@ header{
 /* dropdown menu */
 .dropdown-menu{
     display: none;
-    position: static;
+    position:static;
     right: 2rem;
     top: 8rem;
     width: 20rem;
@@ -301,15 +301,6 @@ header{
         display: block;
 
     }
-    .image1{
-        width: 8rem;
-        height: 8rem;
-        left:0;
-        /* margin-left: 130px; */
-    }
-    .container2{
-        height:143rem;
-}
     .profile .image1{
         width: 10rem;
         height: 10rem;
@@ -318,6 +309,9 @@ header{
     }
     .profile p{
         float:left;
+    }
+    .container2{
+        height: 143rem;
     }
     #c1{
 
